@@ -10,7 +10,7 @@ const featuredPlans = [
     id: 1,
     provider: "Telenor",
     name: "Frihet S",
-    price: 329,
+    price: 529,
     data: 15,
     callMinutes: "Ubegrenset",
     sms: "Ubegrenset",
